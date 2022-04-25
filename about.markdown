@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Arjun Mahal 
+title: About 
 permalink: /about/
 ---
 
