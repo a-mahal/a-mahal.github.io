@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Self-Watering Pot"
+title:  "3D Prints & Renderings"
 date:   2022-04-24 10:36:35 -0400
 categories: jekyll update
 ---
