@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Self-Watering Pot"
+title:  "Welcome to Jekyll!"
 date:   2022-04-18 10:36:35 -0400
 categories: jekyll update
 ---
