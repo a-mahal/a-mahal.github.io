@@ -4,15 +4,14 @@ title:  "Self-Watering Pot"
 date:   2020-04-24 10:36:35 -0400
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+If you have an extremely busy scheduele, this project may be useful for you. It's easy to neglect our plants, but by implementing this code with a few sensors and actuators, you can automate plant watering to where you never have to worry about your plants being dehydrated!
 
-Jekyll requires blog post files to be named according to the following format:
+The physical components of this project are listed below. (will add specific part numbers)
+`2 servo motors`
+`miniature pump`
+`thermistor`
+`ultrasonic sensor`
 
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
 def print_hi(name)
