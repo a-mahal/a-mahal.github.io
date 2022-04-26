@@ -13,8 +13,12 @@ If you have an extremely busy scheduele, this project may be useful for you. It'
 (display code)
 
 The physical components of this project are listed below. (will add specific part numbers) 
-- `2 servo motors`                                                                                     `miniature pump`                                                                                     `thermistor`                                                                                `ultrasonic sensor`                                                                                 `two flower pots`                                                                               `custom design to hold components` 
+- `2 servo motors`                                                                                     
+- `thermistor`
 - `miniature pump`
+- `ultrasonic sensor` 
+- `two flower pots`
+- `custom design to hold components` 
 {% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
