@@ -11,4 +11,7 @@ My name is Arjun Mahal and I am a Mechanical Engineer from the University of Mar
 My job and hobbies include:
 - PPCL: Siemens proprietary coding language used to automate HVAC systems for commercial buildings     ranging from variable airlfow volum boxees to boilers and chillers 
 - Fusion 360: Software used to create 3D renderings which I used to print on my Ender 3 V2 printer
+# add app development once done with book 
+# add python once gained experience 
+# possibly linux?? Probably not but ask jean
 
