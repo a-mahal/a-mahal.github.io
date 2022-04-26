@@ -19,6 +19,7 @@ The physical components of this project are listed below. (will add specific par
 - `ultrasonic sensor` 
 - `two flower pots`
 - `custom design to hold components` 
+
 {% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
