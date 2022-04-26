@@ -34,5 +34,6 @@ The physical components of this project are listed below. (will add specific par
 - `two flower pots`
 - `custom design to hold components` 
 
+Link to project files: (coming soon)
 
 
