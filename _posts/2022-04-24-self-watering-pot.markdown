@@ -6,9 +6,15 @@ categories: jekyll update
 ---
 If you have an extremely busy scheduele, this project may be useful for you. It's easy to neglect our plants, but by implementing this code with a few sensors and actuators, you can automate plant watering to where you never have to worry about your plants being dehydrated!
 
-The physical components of this project are listed below. (will add specific part numbers) 
-`2 servo motors`a                                                                              `miniature pump`                                                                              `thermistor`                                                                                `ultrasonic sensor`                                                                                 `two flower pots`                                                                               `custom design to hold components` 
+(coding concpet #1)
+(display code here)
 
+(coding conept #2)
+(display code)
+
+The physical components of this project are listed below. (will add specific part numbers) 
+- `2 servo motors`                                                                                     `miniature pump`                                                                                     `thermistor`                                                                                `ultrasonic sensor`                                                                                 `two flower pots`                                                                               `custom design to hold components` 
+- `miniature pump`
 {% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
