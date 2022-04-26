@@ -5,8 +5,8 @@ permalink: /about/
 image: /assets/images/IMG_2109.jpg
 ---
 
-![Head shot](IMG_2109.jpg) 
-1
+![Head shot](/assets/images/IMG_2109.jpg) 
+
 My name is Arjun Mahal and I am a Mechanical Engineer from the University of Maryland, College Park. I was born in Warren, NJ and currently reside in Washington, DC. I work as a HVAC Automation Specialist for Siemens Industry and enjoy experimenting with code and mechatronics in my spare time. 
 
 My job and hobbies include:
