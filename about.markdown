@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+(Add Image)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My name is Arjun Mahal and I am a Mechanical Engineer from the University of Maryland, College Park. I was born in Warren, NJ and currently reside in Washington, DC. I work as a HVAC Automation Specialist for Siemens Industry and enjoy experimenting with code and mechatronics in my spare time. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+My job and hobbies include:
+- PPCL: Siemens proprietary coding language used to automate HVAC systems for commercial buildings     ranging from variable airlfow volum boxees to boilers and chillers 
 
-
-[jekyll-organization]: https://github.com/jekyll
