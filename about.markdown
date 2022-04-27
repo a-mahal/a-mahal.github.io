@@ -2,10 +2,10 @@
 layout: page
 title: About 
 permalink: /about/
-image: https://github.com/a-mahal/a-mahal.github.io/blob/main/_site/feed.xml
+image: _site/assets/IMG2.png
 ---
 
-![Headshot9](https://github.com/a-mahal/a-mahal.github.io/blob/main/_site/feed.xml "Hello!")
+![Headshot9](_site/assets/IMG2.png "Hello!")
 
 My name is Arjun Mahal and I am a Mechanical Engineer from the University of Maryland, College Park. I was born in Warren, NJ and currently reside in Washington, DC. I work as a HVAC Automation Specialist for Siemens Industry and enjoy experimenting with code and mechatronics in my spare time. 
 
