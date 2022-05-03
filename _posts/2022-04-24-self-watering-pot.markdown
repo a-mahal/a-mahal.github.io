@@ -6,13 +6,10 @@ categories: jekyll update
 ---
 If you have an extremely busy scheduele, this project may be useful for you. It's easy to neglect our plants, but by implementing this code with a few sensors and actuators, you can automate plant watering to where you never have to worry about your plants being dehydrated!
 
-(coding concpet #1)
+Reading the voltage drop of a thermistor to create a temperature sensor(coding concpet #1)
 {% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+float 
+float 
 {% endhighlight %}
 
 
