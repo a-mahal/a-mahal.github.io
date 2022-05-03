@@ -49,18 +49,17 @@
   <div class="post-content e-content" itemprop="articleBody">
     <p>If you have an extremely busy scheduele, this project may be useful for you. It’s easy to neglect our plants, but by implementing this code with a few sensors and actuators, you can automate plant watering to where you never have to worry about your plants being dehydrated!</p>
 
-<p>Reading the voltage drop of a thermistor to create a temperature sensor(coding concpet #1)</p>
+<p>Reading the voltage drop of a thermistor to create a temperature sensor on Arduino</p>
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="n">float</span> 
-<span class="n">float</span> </code></pre></figure>
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="n">float</span> <span class="no">V</span> <span class="o">=</span> <span class="n">analogRead</span><span class="p">(</span><span class="no">A0</span><span class="p">);</span>
+<span class="n">float</span> <span class="no">Vout</span> <span class="o">=</span> <span class="mi">5</span><span class="o">*</span><span class="p">(</span><span class="no">V</span><span class="o">/</span><span class="mi">1023</span><span class="p">);</span>
+<span class="n">float</span> <span class="no">R1</span> <span class="o">=</span> <span class="p">(</span><span class="n">thermister</span> <span class="n">rating</span><span class="p">)</span><span class="o">*</span> <span class="p">(</span><span class="mi">1</span><span class="o">-</span><span class="p">(</span><span class="no">Vin</span><span class="o">/</span><span class="no">Vout</span><span class="p">));</span>
+<span class="no">R1</span> <span class="o">=</span> <span class="n">map</span><span class="p">(</span><span class="no">R1</span><span class="p">,</span> <span class="mi">700</span><span class="p">,</span> <span class="mi">6700</span><span class="p">,</span> <span class="mi">500</span><span class="p">,</span> <span class="mi">73</span><span class="p">);</span>
+<span class="n">int</span> <span class="no">T</span> <span class="o">=</span> <span class="no">R1</span></code></pre></figure>
 
-<p>(coding conept #2)</p>
+<p>Inputting strings from Arduino to Processing to create responsive images</p>
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="n">void</span> <span class="n">setup</span> <span class="p">{}</span></code></pre></figure>
 
 <p>The physical components of this project are listed below. (will add specific part numbers)</p>
 <ul>
