@@ -18,7 +18,26 @@ int T = R1
 
 Inputting strings from Arduino to Processing to create responsive images 
 {% highlight ruby %}
-void setup {}
+void setup {
+  println(Serial.list());
+  myPort = new Serial(this, Serual.list()[4], 115200); 
+}
+
+void draw () {
+  while (myPort.available () > 0) {
+    String inString = myport.readStringUntil('\n');
+    
+    if (inString !=null) {
+      inString = trim(inString);
+      String[] myRaw = splitTokens(inString, ",");
+    if (myRaw.length == 3){
+      int cm = int(myRaw[0]);
+      int T = int(myRaw[1]);
+      int b = int(myRaw[2]);
+    }
+    }
+  }
+}
 {% endhighlight %}
 
 
