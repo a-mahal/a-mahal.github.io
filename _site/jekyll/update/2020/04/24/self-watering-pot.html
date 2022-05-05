@@ -61,7 +61,7 @@
 
 <figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="n">void</span> <span class="n">setup</span> <span class="p">{</span>
   <span class="n">println</span><span class="p">(</span><span class="no">Serial</span><span class="p">.</span><span class="nf">list</span><span class="p">());</span>
-  <span class="n">myPort</span> <span class="o">=</span> <span class="n">new</span> <span class="no">Serial</span><span class="p">(</span><span class="n">this</span><span class="p">,</span> <span class="no">Serual</span><span class="p">.</span><span class="nf">list</span><span class="p">()[</span><span class="mi">4</span><span class="p">],</span> <span class="mi">115200</span><span class="p">);</span> 
+  <span class="n">myPort</span> <span class="o">=</span> <span class="n">new</span> <span class="no">Serial</span><span class="p">(</span><span class="n">this</span><span class="p">,</span> <span class="no">Serial</span><span class="p">.</span><span class="nf">list</span><span class="p">()[</span><span class="mi">4</span><span class="p">],</span> <span class="mi">115200</span><span class="p">);</span> 
 <span class="p">}</span>
 
 <span class="n">void</span> <span class="n">draw</span> <span class="p">()</span> <span class="p">{</span>
@@ -73,7 +73,7 @@
       <span class="no">String</span><span class="p">[]</span> <span class="n">myRaw</span> <span class="o">=</span> <span class="n">splitTokens</span><span class="p">(</span><span class="n">inString</span><span class="p">,</span> <span class="s2">","</span><span class="p">);</span>
     <span class="k">if</span> <span class="p">(</span><span class="n">myRaw</span><span class="p">.</span><span class="nf">length</span> <span class="o">==</span> <span class="mi">3</span><span class="p">){</span>
       <span class="n">int</span> <span class="n">cm</span> <span class="o">=</span> <span class="n">int</span><span class="p">(</span><span class="n">myRaw</span><span class="p">[</span><span class="mi">0</span><span class="p">]);</span>
-      <span class="n">int</span> <span class="no">T</span> <span class="o">=</span> <span class="n">int</span><span class="p">(</span><span class="n">myRaw</span><span class="p">[</span><span class="mi">1</span><span class="p">]);</span>
+      <span class="n">int</span> <span class="n">t</span> <span class="o">=</span> <span class="n">int</span><span class="p">(</span><span class="n">myRaw</span><span class="p">[</span><span class="mi">1</span><span class="p">]);</span>
       <span class="n">int</span> <span class="n">b</span> <span class="o">=</span> <span class="n">int</span><span class="p">(</span><span class="n">myRaw</span><span class="p">[</span><span class="mi">2</span><span class="p">]);</span>
     <span class="p">}</span>
     <span class="p">}</span>

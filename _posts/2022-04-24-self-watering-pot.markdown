@@ -20,7 +20,7 @@ Inputting strings from Arduino to Processing to create responsive images
 {% highlight ruby %}
 void setup {
   println(Serial.list());
-  myPort = new Serial(this, Serual.list()[4], 115200); 
+  myPort = new Serial(this, Serial.list()[4], 115200); 
 }
 
 void draw () {
@@ -32,7 +32,7 @@ void draw () {
       String[] myRaw = splitTokens(inString, ",");
     if (myRaw.length == 3){
       int cm = int(myRaw[0]);
-      int T = int(myRaw[1]);
+      int t = int(myRaw[1]);
       int b = int(myRaw[2]);
     }
     }
