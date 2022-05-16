@@ -7,4 +7,4 @@ categories: jekyll update
 image: /assets/Resume.png
 ---
 
-![Headshot9](/assets/Resume.png "Hello!")
+![Headshot8](/assets/Resume.png "Hello!")
