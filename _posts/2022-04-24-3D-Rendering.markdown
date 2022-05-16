@@ -11,7 +11,7 @@ Print Hardware/Software
 - Print Material: PLA
 - 3D Modeling Software: Fusion 360
 - Gcode Generation Software: Cura  
-___________________________________________________________________________
+______________________________________________________________________________
 
 
 # Mechanical Arm 
