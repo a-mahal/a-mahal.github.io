@@ -3,6 +3,8 @@ layout: post
 title:  "Resume"
 date:   2022-05-16 10:36:35 -0400
 categories: jekyll update
+permalink: /about/
+image: /assets/IMG2.png
 ---
 
 ![Headshot9](/assets/Resume.png "Hello!")
