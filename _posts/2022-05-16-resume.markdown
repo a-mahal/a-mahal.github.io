@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Resume"
-date:   2020-05-16 10:36:35 -0400
+date:   2022-05-16 10:36:35 -0400
 categories: jekyll update
 ---
 
-![Headshot9](/assets/Resume.pdf "Hello!")
+![Headshot9](/assets/Resume.png "Hello!")
