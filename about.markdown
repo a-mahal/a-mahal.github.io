@@ -2,7 +2,7 @@
 layout: page
 title: About 
 permalink: /about/
-image: _site/assets/IMG2.png
+image: /assets/IMG2.png
 ---
 
 ![Headshot9](/assets/IMG2.png "Hello!")

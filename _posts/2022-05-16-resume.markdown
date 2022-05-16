@@ -5,4 +5,4 @@ date:   2020-05-16 10:36:35 -0400
 categories: jekyll update
 ---
 
-![Headshot9](/assets/IMG2.png "Hello!")
+![Headshot9](/assets/Resume.pdf "Hello!")
