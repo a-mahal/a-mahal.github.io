@@ -11,10 +11,10 @@ Print Hardware/Software
 - Print Material: PLA
 - 3D Modeling Software: Fusion 360
 - Gcode Generation Software: Cura  
-______________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
-# Mechanical Arm 
+# Mechanical Arm Print and Components 
 
 Check out this pubic [stl file] [stl-file] used to print the comonents of the arm. 
 
@@ -23,6 +23,9 @@ Additional components for this build include the following
 - 3x SG90 servo motor
 - 6x M5-0.5 16mm bolt
 - 6x M5-0.5 nut 
+
+# Code for Automation
+The direct link to the full code can be found (here). There are various ways this arm can be automated based on what you want to accomplish. Belows shows  afew key details on how to program a coaster that automatically throws your can/bottle away for you.
 
 
 

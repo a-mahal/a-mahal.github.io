@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-05-16T15:59:40-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Arjun Mahal</title><subtitle>This is my personal wesite. All work  posted does not represent my employer. </subtitle><entry><title type="html">3D Prints &amp;amp; Renderings</title><link href="http://localhost:4000/jekyll/update/2022/04/24/3D-Rendering.html" rel="alternate" type="text/html" title="3D Prints &amp;amp; Renderings" /><published>2022-04-24T10:36:35-04:00</published><updated>2022-04-24T10:36:35-04:00</updated><id>http://localhost:4000/jekyll/update/2022/04/24/3D-Rendering</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/04/24/3D-Rendering.html"><![CDATA[<p>This post will display my 3D rendering and 3D printing projects. Each project will be accompanied by an image, the link to the stl file for public use, and a small description about its utility.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-05-16T16:11:37-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Arjun Mahal</title><subtitle>This is my personal wesite. All work  posted does not represent my employer. </subtitle><entry><title type="html">3D Prints &amp;amp; Renderings</title><link href="http://localhost:4000/jekyll/update/2022/04/24/3D-Rendering.html" rel="alternate" type="text/html" title="3D Prints &amp;amp; Renderings" /><published>2022-04-24T10:36:35-04:00</published><updated>2022-04-24T10:36:35-04:00</updated><id>http://localhost:4000/jekyll/update/2022/04/24/3D-Rendering</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/04/24/3D-Rendering.html"><![CDATA[<p>This post will display my 3D rendering and 3D printing projects. Each project will be accompanied by an image, the link to the stl file for public use, and a small description about its utility.</p>
 
 <p>Print Hardware/Software</p>
 <ul>
@@ -6,10 +6,10 @@
   <li>Print Material: PLA</li>
   <li>3D Modeling Software: Fusion 360</li>
   <li>Gcode Generation Software: Cura<br />
-<strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong>___</li>
+<strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong></li>
 </ul>
 
-<h1 id="mechanical-arm">Mechanical Arm</h1>
+<h1 id="mechanical-arm-print-and-components">Mechanical Arm Print and Components</h1>
 
 <p>Check out this pubic <a href="https://www.thingiverse.com/thing:4865712">stl file</a> used to print the comonents of the arm.</p>
 
@@ -20,6 +20,9 @@
   <li>6x M5-0.5 16mm bolt</li>
   <li>6x M5-0.5 nut</li>
 </ul>
+
+<h1 id="code-for-automation">Code for Automation</h1>
+<p>The direct link to the full code can be found (here). There are various ways this arm can be automated based on what you want to accomplish. Belows shows  afew key details on how to program a coaster that automatically throws your can/bottle away for you.</p>
 
 <p>Drone
 (coming soon)</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[This post will display my 3D rendering and 3D printing projects. Each project will be accompanied by an image, the link to the stl file for public use, and a small description about its utility.]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2022/04/18/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-04-18T10:36:35-04:00</published><updated>2022-04-18T10:36:35-04:00</updated><id>http://localhost:4000/jekyll/update/2022/04/18/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/04/18/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
