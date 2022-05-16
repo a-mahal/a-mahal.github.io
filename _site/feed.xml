@@ -1,18 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-05-06T13:24:59-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Arjun Mahal</title><subtitle>This is my personal wesite. All work  posted does not represent my employer. </subtitle><entry><title type="html">3D Prints &amp;amp; Renderings</title><link href="http://localhost:4000/jekyll/update/2022/04/24/3D-Rendering.html" rel="alternate" type="text/html" title="3D Prints &amp;amp; Renderings" /><published>2022-04-24T09:36:35-05:00</published><updated>2022-04-24T09:36:35-05:00</updated><id>http://localhost:4000/jekyll/update/2022/04/24/3D-Rendering</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/04/24/3D-Rendering.html"><![CDATA[<p>This post will display my 3D rendering and 3D printing projects. Each project will be accompanied by an image, the link to the stl file for public use, and a small description about its utility.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-05-16T15:59:40-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Arjun Mahal</title><subtitle>This is my personal wesite. All work  posted does not represent my employer. </subtitle><entry><title type="html">3D Prints &amp;amp; Renderings</title><link href="http://localhost:4000/jekyll/update/2022/04/24/3D-Rendering.html" rel="alternate" type="text/html" title="3D Prints &amp;amp; Renderings" /><published>2022-04-24T10:36:35-04:00</published><updated>2022-04-24T10:36:35-04:00</updated><id>http://localhost:4000/jekyll/update/2022/04/24/3D-Rendering</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/04/24/3D-Rendering.html"><![CDATA[<p>This post will display my 3D rendering and 3D printing projects. Each project will be accompanied by an image, the link to the stl file for public use, and a small description about its utility.</p>
 
-<p>Print Specifications</p>
+<p>Print Hardware/Software</p>
 <ul>
   <li>Printer: Ender 3 V2</li>
   <li>Print Material: PLA</li>
   <li>3D Modeling Software: Fusion 360</li>
-  <li>Gcode Generation Software: Cura</li>
+  <li>Gcode Generation Software: Cura<br />
+<strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong><strong>__</strong>___</li>
 </ul>
 
-<p>Mechanical Arm 
-(coming soon)</p>
+<h1 id="mechanical-arm">Mechanical Arm</h1>
+
+<p>Check out this pubic <a href="https://www.thingiverse.com/thing:4865712">stl file</a> used to print the comonents of the arm.</p>
+
+<p>Additional components for this build include the following</p>
+<ul>
+  <li>3x MG995/996R servo motor</li>
+  <li>3x SG90 servo motor</li>
+  <li>6x M5-0.5 16mm bolt</li>
+  <li>6x M5-0.5 nut</li>
+</ul>
 
 <p>Drone
-(coming soon)</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[This post will display my 3D rendering and 3D printing projects. Each project will be accompanied by an image, the link to the stl file for public use, and a small description about its utility.]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2022/04/18/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-04-18T09:36:35-05:00</published><updated>2022-04-18T09:36:35-05:00</updated><id>http://localhost:4000/jekyll/update/2022/04/18/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/04/18/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+(coming soon)</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[This post will display my 3D rendering and 3D printing projects. Each project will be accompanied by an image, the link to the stl file for public use, and a small description about its utility.]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2022/04/18/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-04-18T10:36:35-04:00</published><updated>2022-04-18T10:36:35-04:00</updated><id>http://localhost:4000/jekyll/update/2022/04/18/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/04/18/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
 
 <p>Jekyll requires blog post files to be named according to the following format:</p>
 
@@ -41,7 +51,7 @@ This is the base Jekyll theme. You can find out more info about customizing your
 <a href="https://github.com/jekyll">jekyll</a> /
 <a href="https://github.com/jekyll/jekyll">jekyll</a></p>
 
-<p>bundle exec jekyll serve</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">Self-Watering Pot</title><link href="http://localhost:4000/jekyll/update/2020/04/24/self-watering-pot.html" rel="alternate" type="text/html" title="Self-Watering Pot" /><published>2020-04-24T09:36:35-05:00</published><updated>2020-04-24T09:36:35-05:00</updated><id>http://localhost:4000/jekyll/update/2020/04/24/self-watering-pot</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/04/24/self-watering-pot.html"><![CDATA[<p>If you have an extremely busy scheduele, this project may be useful for you. It’s easy to neglect our plants, but by implementing this code with a few sensors and actuators, you can automate plant watering to where you never have to worry about your plants being dehydrated!</p>
+<p>bundle exec jekyll serve</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">Self-Watering Pot</title><link href="http://localhost:4000/jekyll/update/2020/04/24/self-watering-pot.html" rel="alternate" type="text/html" title="Self-Watering Pot" /><published>2020-04-24T10:36:35-04:00</published><updated>2020-04-24T10:36:35-04:00</updated><id>http://localhost:4000/jekyll/update/2020/04/24/self-watering-pot</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/04/24/self-watering-pot.html"><![CDATA[<p>If you have an extremely busy scheduele, this project may be useful for you. It’s easy to neglect our plants, but by implementing this code with a few sensors and actuators, you can automate plant watering to where you never have to worry about your plants being dehydrated!</p>
 
 <p>Reading the voltage drop of a thermistor to create a temperature sensor on Arduino</p>
 
