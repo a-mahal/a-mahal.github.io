@@ -15,7 +15,13 @@ Print Specifications
 
 
 Mechanical Arm 
-(coming soon)
+Check out this pubic [stl file] [stl-file] used to print the comonents of the arm. 
+
+
+
+
+
+[stl-file]: https://www.thingiverse.com/thing:4865712
 
 Drone
 (coming soon)
