@@ -8,4 +8,4 @@ image: /assets/Resume.png
 ---
 
 ![Headshot990](/assets/Resume2.png "I am open to all opportunities!")
-![Headshot990](/assets/Resume2.png "I am open to all opportunities!")
+![Headshot990](/assets/Arjun_Mahal_Official_Resume.pdf "I am open to all opportunities!")
