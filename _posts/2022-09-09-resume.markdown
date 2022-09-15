@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Mechanical Resume"
+title:  "Consulting Resume"
 date:   2022-05-16 10:36:35 -0400
 categories: jekyll update
 
-image: /assets/Resume.png
+image: /assets/Arjun_Mahal_Resume_Consulting.png
 ---
 
-![Headshot990](/assets/Resume2.png "I am open to all opportunities!")
-![Headshot990](/assets/coding_resume.png "I am open to all opportunities!")
+
+![Headshot990](/assets/Arjun_Mahal_Resume_Consulting.png "I am open to all opportunities!")
