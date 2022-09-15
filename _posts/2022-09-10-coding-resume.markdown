@@ -7,4 +7,4 @@ categories: jekyll update
 image: /assets/Resume.png
 ---
 
-![Headshot990](/assets/coding_resume.png "I am open to all opportunities!")
+![Headshot990](/assets/Resume_Coding.png "I am open to all opportunities!")
