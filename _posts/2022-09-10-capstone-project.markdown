@@ -7,6 +7,6 @@ categories: jekyll update
 image: 
 ---
 
-Have a look at my team's report here! [report file] [report-file]
+Have a look at my team's report [here file]! [here-file]
 
-[report-file]: https://github.com/a-mahal/a-mahal.github.io/blob/main/assets/Medical%20Percussive%20Device.pdf
+[here-file]: https://github.com/a-mahal/a-mahal.github.io/blob/main/assets/Medical%20Percussive%20Device.pdf
