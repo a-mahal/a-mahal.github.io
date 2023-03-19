@@ -1,8 +1,0 @@
-current directory: /Users/arjunmahal/dev/a-mahal.github.io/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20230318-15388-1ec5h3v.rb extconf.rb
-mkmf.rb can't find header files for ruby at /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/include/ruby.h
-
-You might have to install separate package for the ruby development
-environment, ruby-dev or ruby-devel for example.
-
-extconf failed, exit code 1
