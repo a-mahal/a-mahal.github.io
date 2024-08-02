@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Programming Resume"
-date:   2023-07-30 10:36:35 -0400
+date:   2024-07-30 10:36:35 -0400
 categories: jekyll update
 
 image: /assets/Resume.png
