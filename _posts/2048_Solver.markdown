@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "3D Prints & Renderings"
+title:  "2048 Game Solver (Language: Java)"
 date:   2024-07-30 10:36:35 -0400
 categories: jekyll update
 ---
