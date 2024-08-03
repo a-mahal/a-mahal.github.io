@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Programming Resume"
+title:  "Resume"
 date:   2024-08-01 10:36:35 -0400
 categories: jekyll update
 
