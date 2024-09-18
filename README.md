@@ -1,15 +1,9 @@
-# this is a title
+# Portfolio Website
 
-I am arjun mahal.
+Author: Arjun Mahal 
+
+Consists of relevant professional and personal informaiton
 
 ```
-this is some fake code
-```
-
-and now...
-
-```py
-print 'this is'
-print 'some python'
-print 'code'
+These blocks will represent code used in the specified project.
 ```
