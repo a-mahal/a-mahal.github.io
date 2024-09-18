@@ -7,9 +7,15 @@ image: /assets/IMG2.png
 
 ![Headshot9](/assets/Arjun_Headshot.png "Hello!")
 
-My name is Arjun Mahal and I am a Mechanical Engineer from the University of Maryland, College Park. I was born in Warren, NJ and currently reside in Washington, DC. I have worked as an Energy and Sustainability Consultant for Guidehouse and a HVAC Automation Specialist for Siemens Industry. Now I am focusing on transitioning my career into software engineering through a Masters in Computer and Informational Technology at the University of Pennsylvania.
+Currently pursuing a Master’s in Computer Information and Technology from the University of Pennsylvania. Experienced in a number of programming languages, studying data structures, algorithms, and development techniques. History of working in industry; mentoring engineers, programming and applying technical principles to build solutions for clients. My goal is to secure a position at an organization where I can apply my interdisciplinary skills and further my expertise in technology-driven fields. 
 
 My studies and hobbies include:
-- Data Structures and Algorithms 
-- Developing game solving bots 
+- Data Structures   
+- Algorithms
+- AI/ML
+- Software Development
+- Mathematical Foundations
+- 3D Printing
+- Golf
+- Rock Climbing
 
