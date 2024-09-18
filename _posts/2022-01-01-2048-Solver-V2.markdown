@@ -4,13 +4,19 @@ title:  "2048 Game Solver (Language: Java)"
 date:   2024-07-30 10:36:35 -0400
 categories: jekyll update
 ---
-This post will display my 3D rendering and 3D printing projects. Each project will be accompanied by an image, the link to the stl file for public use, and a small description about its utility. 
+# Description of Game/Rules
+2048 is sliding block puzzle game developed by Gabriele Cirulli. It’s a game played on
+a 4x4 grid with tiles numbered 2n where ‘n’ represents a natural number. The objective
+of the game is to combine tiles of the same number to eventually form the number 2048.
+The user can move in the four cardinal directions and after every move a new tile is
+generated randomly in the grid which is either numbered 2 or 4 with a probability of
+about .10. A move is legal if at least one tile can be slid into an empty spot or if the tiles
+can be combined in the chosen direction. The game ends when the user does not have
+any legal moves left.
+# Algorithm used to solve 2048
 
-Print Hardware/Software
-- Printer: Ender 3 V2
-- Print Material: PLA
-- 3D Modeling Software: Fusion 360
-- Gcode Generation Software: Cura  
+# Highlight certain aspects of the code 
+
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
