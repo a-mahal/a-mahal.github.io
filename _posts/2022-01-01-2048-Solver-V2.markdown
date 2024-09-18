@@ -16,7 +16,8 @@ any legal moves left.
 
 The goal is to achieve the tile 2048. 
 # Algorithm used to solve 2048
-
+To account for the randomness of the added value of 2 or 4 for each move of the board, Expectimax was the chose algorithm for this problem. Expectimax is a decision-making algorithm mostly used in scenarios where uncertainty or chance is involved. It constructs a game tree that represents all the possible moves and chance outcomes, then evaluates the tree nodes to determine the best possible move for a specific game state.
+![GameTree](/assets/Game_Tree.png.png "Hi!")
 # Highlight certain aspects of the code 
 
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________
