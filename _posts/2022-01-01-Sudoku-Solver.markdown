@@ -49,7 +49,7 @@ function REMOVE-INCONSISTENT-VALUES(Xi, Xj) # return true iff we remove a value
 # How to improve this implementation to handle "Hard/Extreme" difficulty rated Sudoku games
 In the implementation so far, it is possible that we end up with variables that have a domain greater than one, meaning the game is unfinished. To combat this issue, we will add another layer of complexity the overall solution. Now, we will have our algorithm run in a DFS recursive loop where after the AC-3 has been conducted, we will then select a variable that has a domain larger than one (has not been assigned a single digit yet) at random and iteravely test out each possible domain value. By doing this in a DFS loop, we will be able to see every variation of the game starting from the output of the original AC-3 algorithm. 
 
-# Implementation
+# Code
 Due to the nature of UPenn's Academic Integrity Policy, I am unable to publicly share the code I developed or go in depth about the specifics of any type of implementation. I would be happy to share my project privately to any recruiters or engineers that would like to analyse my work in detail. 
 
 
