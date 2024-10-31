@@ -22,7 +22,7 @@ The image above shows a small example of the game tree, where chance nodes calcu
 
 
 # Implementation
-The implementation of this algorithm to solve "2048" can be found on my Github profile [here]. [file] 
+The implementation of this algorithm to solve "2048" can be found on my Github profile [here] [file]. 
 
 
 
