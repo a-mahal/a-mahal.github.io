@@ -24,7 +24,8 @@ More formally, a CSP consists of:
     - A state is defined as an assignment of values to some or all variables.
 
 # Algorithm used to solve Sudoku
-...
+Once we have the game board definied through the formal definition of a CSP, we can begin implementing the algorithm AC-3 to solve. AC-3 in this situation takes paris of variables that would need to be checked for constaint issues, and conduct testing on their relationship. If there is a domain in the first of the pair such that there is no domain for the second pair to satisfy any constraints, then the domain element of the first pair is removed. This is conducted until the queue of arch paris to check is empty. Shown below is the pseudo code for the algoritm.
+
 ``` python 
 function AC-3(csp) # return the CSP, possibly with reduced domains
     inputs: csp, a binary csp with variables {X1, X2, ..., Xn}
@@ -40,10 +41,13 @@ function REMOVE-INCONSISTENT-VALUES(Xi, Xj) # return true iff we remove a value
     for each x in DOMAIN[Xi]:
         if no value y in DOMAIN[Xj] allows (x,y) to satisfythe constraints between Xi and Xj:
             delete x from DOMAIN[Xi]
-            rmmoved = True
+            removed = True
     return removed
         
 ```
+
+# How to improve this implementation to handle "Hard/Extreme" difficulty rated Sudoku games
+In the implementation so far, it is possible that we end up with variables that have a domain greater than one, meaning the game is unfinished. To combat this issue, we will add another layer of complexity the overall solution. Now, we will have our algorithm run in a DFS recursive loop where after the AC-3 has been conducted, we will then select a variable that has a domain larger than one (has not been assigned a single digit yet) at random and iteravely test out each possible domain value. By doing this in a DFS loop, we will be able to see every variation of the game starting from the output of the original AC-3 algorithm. 
 
 # Implementation
 Due to the nature of UPenn's Academic Integrity Policy, I am unable to publicly share the code I developed or go in depth about the specifics of any type of implementation. I would be happy to share my project privately to any recruiters or engineers that would like to analyse my work in detail. 
