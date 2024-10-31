@@ -23,6 +23,8 @@ More formally, a CSP consists of:
     - Each constraint C<sub>i</sub> limits the values that variables can take, e.g., X<sub>1</sub> ≠ X<sub>2</sub> 
     - A state is defined as an assignment of values to some or all variables.
 
+To clarify how this relates to this game, each position on the 9x9 board is a variable. All variables given from the start, will have a domain the size of one that consists of the given number. All other variables will have a domain size of 9 portrayed as a set {1, 2, 3, 4, 5, 6, 7, 8, 9}
+
 # Algorithm used to solve Sudoku
 Once we have the game board definied through the formal definition of a CSP, we can begin implementing the algorithm AC-3 to solve. AC-3 in this situation takes paris of variables that would need to be checked for constaint issues, and conduct testing on their relationship. If there is a domain in the first of the pair such that there is no domain for the second pair to satisfy any constraints, then the domain element of the first pair is removed. This is conducted until the queue of arch paris to check is empty. Shown below is the pseudo code for the algoritm.
 
