@@ -30,7 +30,7 @@ function AC-3(csp) # return the CSP, possibly with reduced domains
     inputs: csp, a binary csp with variables {X1, X2, ..., Xn}
     local variables: queue, a queue of arcs initially the arcs in csp
     while queue is not empty do:
-        (Xi, Xj) ← queue.pop()
+        (Xi, Xj) = queue.pop()
         if REMOVE-INCONSISTENT-VALUES(Xi, Xj):
             for each Xk in NEIGHBORS[Xi] – {Xj}:
                 add (Xk, Xi) to queue
