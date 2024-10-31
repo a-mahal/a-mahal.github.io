@@ -25,7 +25,25 @@ More formally, a CSP consists of:
 
 # Algorithm used to solve Sudoku
 ...
+''' python 
+function AC-3(csp) # return the CSP, possibly with reduced domains
+    inputs: csp, a binary csp with variables {X1, X2, ..., Xn}
+    local variables: queue, a queue of arcs initially the arcs in csp
+    while queue is not empty do:
+        (Xi, Xj) ← queue.pop()
+        if REMOVE-INCONSISTENT-VALUES(Xi, Xj):
+            for each Xk in NEIGHBORS[Xi] – {Xj}:
+                add (Xk, Xi) to queue
 
+function REMOVE-INCONSISTENT-VALUES(Xi, Xj) # return true iff we remove a value
+    removed = false
+    for each x in DOMAIN[Xi]:
+        if no value y in DOMAIN[Xj] allows (x,y) to satisfythe constraints between Xi and Xj:
+            delete x from DOMAIN[Xi]
+            rmmoved = True
+    return removed
+        
+'''
 
 # Implementation
 Due to the nature of UPenn's Academic Integrity Policy, I am unable to publicly share the code I developed or go in depth about the specifics of any type of implementation. I would be happy to share my project privately to any recruiters or engineers that would like to analyse my work in detail. 
