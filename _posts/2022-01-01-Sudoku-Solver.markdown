@@ -14,8 +14,8 @@ This game setup can be represented as a contraint satisfaction problem, meaning 
 
 The formal definition for a Constraint Satisfaction Problem reads a such. 
 A CSP consists of:
-- Finite set of variables X1, X2, ..., Xn
-- onempty domain of possible values for each variable D1, D2, ...,Dn where Di = {v1, ..., vk}
+- Finite set of variables X1, X<sub>2</sub>2, ..., Xn
+- Nonempty domain of possible values for each variable D1, D2, ...,Dn where Di = {v1, ..., vk}
 - Finite set of constraints C1, C2, ..., Cm
     - Each constraint Ci limits the values that variables can take, e.g., X1 ≠ X2 
     - A state is defined as an assignment of values to some or all variables.
