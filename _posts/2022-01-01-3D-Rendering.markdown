@@ -16,7 +16,7 @@ ________________________________________________________________________________
 
 # Mechanical Arm Print and Components 
 
-Check out this pubic [stl file] [stl-file] used to print the comonents of the arm. 
+Check out this pubic [stl file] [stl-file] used to print the components of the arm. 
 
 Additional components for this build include the following
 - 3x MG995/996R servo motor 
