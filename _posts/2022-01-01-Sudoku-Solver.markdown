@@ -25,6 +25,6 @@ A CSP consists of:
 
 
 # Implementation
-Due to the nature of Academic Policy at the University of Pennsylvania, I am unable to publicly share the code I developed or go in depth about the specifics of any type of implementation. I would be happy to share my project privately to any recruiters or engineers that would like to analyse my work in detail. 
+Due to the nature of UPenn's Academic Integrity Policy, I am unable to publicly share the code I developed or go in depth about the specifics of any type of implementation. I would be happy to share my project privately to any recruiters or engineers that would like to analyse my work in detail. 
 
 
